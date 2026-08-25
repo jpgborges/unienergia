@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520" font-family="Segoe UI, Arial, sans-serif">
+<rect width="920" height="520" fill="#ffffff"/>
+<text x="460.0" y="34" text-anchor="middle" font-size="21" font-weight="700" fill="#1b1b1b">Consumo de Energia Eletrica da Sala de Aula (7 dias)</text>
+<text x="460.0" y="56" text-anchor="middle" font-size="13" fill="#666">Laranja = acima da media | Azul = abaixo da media</text>
+<line x1="70" y1="430.0" x2="890" y2="430.0" stroke="#e3e3e3" stroke-width="1"/>
+<text x="58" y="434.0" text-anchor="end" font-size="12" fill="#666">0</text>
+<line x1="70" y1="378.6" x2="890" y2="378.6" stroke="#e3e3e3" stroke-width="1"/>
+<text x="58" y="382.6" text-anchor="end" font-size="12" fill="#666">5</text>
+<line x1="70" y1="327.1" x2="890" y2="327.1" stroke="#e3e3e3" stroke-width="1"/>
+<text x="58" y="331.1" text-anchor="end" font-size="12" fill="#666">10</text>
+<line x1="70" y1="275.7" x2="890" y2="275.7" stroke="#e3e3e3" stroke-width="1"/>
+<text x="58" y="279.7" text-anchor="end" font-size="12" fill="#666">15</text>
+<line x1="70" y1="224.3" x2="890" y2="224.3" stroke="#e3e3e3" stroke-width="1"/>
+<text x="58" y="228.3" text-anchor="end" font-size="12" fill="#666">20</text>
+<line x1="70" y1="172.9" x2="890" y2="172.9" stroke="#e3e3e3" stroke-width="1"/>
+<text x="58" y="176.9" text-anchor="end" font-size="12" fill="#666">25</text>
+<line x1="70" y1="121.4" x2="890" y2="121.4" stroke="#e3e3e3" stroke-width="1"/>
+<text x="58" y="125.4" text-anchor="end" font-size="12" fill="#666">30</text>
+<line x1="70" y1="70.0" x2="890" y2="70.0" stroke="#e3e3e3" stroke-width="1"/>
+<text x="58" y="74.0" text-anchor="end" font-size="12" fill="#666">35</text>
+<text x="20" y="250.0" font-size="13" fill="#444" transform="rotate(-90 20 250.0)" text-anchor="middle">Consumo (kWh)</text>
+<rect x="94.6" y="244.9" width="67.9" height="185.1" fill="#3f8efc" rx="4"/>
+<text x="128.6" y="264.9" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">18</text>
+<text x="128.6" y="454.0" text-anchor="middle" font-size="12.5" fill="#1b1b1b">Segunda</text>
+<rect x="211.7" y="203.7" width="67.9" height="226.3" fill="#e4572e" rx="4"/>
+<text x="245.7" y="194.7" text-anchor="middle" font-size="14" font-weight="700" fill="#1b1b1b">22</text>
+<text x="245.7" y="454.0" text-anchor="middle" font-size="12.5" fill="#1b1b1b">Terca</text>
+<rect x="328.9" y="224.3" width="67.9" height="205.7" fill="#e4572e" rx="4"/>
+<text x="362.9" y="244.3" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">20</text>
+<text x="362.9" y="454.0" text-anchor="middle" font-size="12.5" fill="#1b1b1b">Quarta</text>
+<rect x="446.0" y="172.9" width="67.9" height="257.1" fill="#e4572e" rx="4"/>
+<text x="480.0" y="163.9" text-anchor="middle" font-size="14" font-weight="700" fill="#1b1b1b">25</text>
+<text x="480.0" y="454.0" text-anchor="middle" font-size="12.5" fill="#1b1b1b">Quinta</text>
+<rect x="563.2" y="121.4" width="67.9" height="308.6" fill="#e4572e" rx="4"/>
+<text x="597.1" y="112.4" text-anchor="middle" font-size="14" font-weight="700" fill="#1b1b1b">30</text>
+<text x="597.1" y="454.0" text-anchor="middle" font-size="12.5" fill="#1b1b1b">Sexta  (MAIOR)</text>
+<rect x="680.3" y="306.6" width="67.9" height="123.4" fill="#3f8efc" rx="4"/>
+<text x="714.3" y="297.6" text-anchor="middle" font-size="14" font-weight="700" fill="#1b1b1b">12</text>
+<text x="714.3" y="454.0" text-anchor="middle" font-size="12.5" fill="#1b1b1b">Sabado</text>
+<rect x="797.5" y="327.1" width="67.9" height="102.9" fill="#3f8efc" rx="4"/>
+<text x="831.4" y="318.1" text-anchor="middle" font-size="14" font-weight="700" fill="#1b1b1b">10</text>
+<text x="831.4" y="454.0" text-anchor="middle" font-size="12.5" fill="#1b1b1b">Domingo  (MENOR)</text>
+<line x1="70" y1="430" x2="890" y2="430" stroke="#1b1b1b" stroke-width="1.6"/>
+<line x1="70" y1="228.7" x2="890" y2="228.7" stroke="#2b9348" stroke-width="2.4" stroke-dasharray="9,6"/>
+<text x="884" y="220.7" text-anchor="end" font-size="13" font-weight="700" fill="#2b9348">Media = 19,57 kWh</text>
+<text x="460.0" y="502" text-anchor="middle" font-size="12.5" fill="#555">Dia da semana</text>
+</svg>
